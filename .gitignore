@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# build/verification leftovers
+build.log
+*.doc
+node_modules/
